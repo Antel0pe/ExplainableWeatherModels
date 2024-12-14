@@ -1,0 +1,3 @@
+hourly_ottawa_airpot_2021-2023.csv
+All months from 2021-2023 downloaded from: https://climate.weather.gc.ca/climate_data/hourly_data_e.html?hlyRange=2011-12-14%7C2024-12-12&dlyRange=2011-12-15%7C2024-12-12&mlyRange=%7C&StationID=49568&Prov=ON&urlExtension=_e.html&searchType=stnProx&optLimit=yearRange&StartYear=1840&EndYear=2024&selRowPerPage=25&Line=25&txtRadius=25&optProxType=city&selCity=45%7C26%7C75%7C42%7COttawa&selPark=&txtCentralLatDeg=&txtCentralLatMin=0&txtCentralLatSec=0&txtCentralLongDeg=&txtCentralLongMin=0&txtCentralLongSec=0&txtLatDecDeg=&txtLongDecDeg=&timeframe=1&time=LST&time=LST&Year=2013&Month=12&Day=12#
+Combined into one csv. 
